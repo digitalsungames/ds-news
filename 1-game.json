@@ -21,7 +21,7 @@
         }
       },
       "stores": {
-        "undefined": {
+        "1": {
           "news_id": 1,
           "games_id": 1,
           "store_id": 1,
