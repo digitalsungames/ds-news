@@ -1,0 +1,34 @@
+{
+  "news": {
+    "17": {
+      "id": 17,
+      "games_id": 4,
+      "show_once": 1,
+      "priority": 50,
+      "start_date": "2024-06-25T16:26:40.000Z",
+      "end_date": null,
+      "localization": {
+        "es": {
+          "news_id": 17,
+          "games_id": 4,
+          "language": "es",
+          "title": "Welcome to Cataclismo!",
+          "short_description": null,
+          "long_description": null,
+          "button_accept": "Join our Discord",
+          "button_decline": "Maybe later",
+          "asset": null
+        }
+      },
+      "stores": {
+        "1": {
+          "news_id": 17,
+          "games_id": 4,
+          "store_id": 1,
+          "url": "https://steamcommunity.com/app/1422440/discussions/0/3801649759596519949/"
+        }
+      }
+    }
+  },
+  "last_update": "2024-06-25T16:37:39.000Z"
+}
