@@ -1,0 +1,29 @@
+{
+  "news": {
+    "5": {
+      "id": 5,
+      "games_id": 2,
+      "show_once": 0,
+      "priority": 0,
+      "start_date": "2024-06-20T14:25:15.000Z",
+      "end_date": null
+    },
+    "6": {
+      "id": 6,
+      "games_id": 2,
+      "show_once": 0,
+      "priority": 0,
+      "start_date": "2024-06-20T14:25:15.000Z",
+      "end_date": null
+    },
+    "7": {
+      "id": 7,
+      "games_id": 2,
+      "show_once": 0,
+      "priority": 0,
+      "start_date": "2024-06-20T14:25:15.000Z",
+      "end_date": null
+    }
+  },
+  "last_update": null
+}
