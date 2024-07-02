@@ -111,7 +111,7 @@
           "news_id": 18,
           "games_id": 3,
           "language": "it",
-          "title": "\nUnisciti al nostro Discord!",
+          "title": "\rUnisciti al nostro Discord!",
           "short_description": null,
           "long_description": null,
           "button_accept": null,
@@ -293,5 +293,5 @@
       }
     }
   },
-  "last_update": "2024-06-28T14:32:32.000Z"
+  "last_update": "2024-07-02T09:14:20.000Z"
 }
