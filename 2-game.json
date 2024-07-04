@@ -23,7 +23,15 @@
       "priority": 0,
       "start_date": "2024-06-20T14:25:15.000Z",
       "end_date": null
+    },
+    "23": {
+      "id": 23,
+      "games_id": 2,
+      "show_once": 1,
+      "priority": 10,
+      "start_date": "2024-07-04T10:46:20.000Z",
+      "end_date": null
     }
   },
-  "last_update": null
+  "last_update": "2024-07-04T11:01:48.000Z"
 }
