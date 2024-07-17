@@ -122,7 +122,7 @@
           "news_id": 18,
           "games_id": 3,
           "language": "es",
-          "title": "Únete a nuestro Discord!",
+          "title": "¡Únete a nuestro Discord!",
           "short_description": null,
           "long_description": null,
           "button_accept": null,
@@ -293,5 +293,5 @@
       }
     }
   },
-  "last_update": "2024-07-02T09:14:20.000Z"
+  "last_update": "2024-07-17T10:29:25.000Z"
 }
