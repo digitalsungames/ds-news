@@ -3,7 +3,7 @@
     "48": {
       "id": 48,
       "games_id": 1,
-      "show_once": 1,
+      "show_once": 0,
       "priority": 10,
       "start_date": "1998-06-20T00:00:00.000Z",
       "end_date": "2030-05-01T00:00:00.000Z",
@@ -60,5 +60,5 @@
     }
   },
   "name": "Moonlighter",
-  "last_update": "2024-11-19T18:39:34.000Z"
+  "last_update": "2024-11-20T11:39:19.000Z"
 }
