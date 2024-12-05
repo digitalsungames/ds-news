@@ -297,7 +297,7 @@
       "games_id": 3,
       "show_once": 0,
       "priority": 12,
-      "start_date": "2024-12-05T00:00:00.000Z",
+      "start_date": "2024-12-05T18:42:00.000Z",
       "end_date": null,
       "localization": {
         "en": {
@@ -444,5 +444,5 @@
     }
   },
   "name": "Cataclismo",
-  "last_update": "2024-12-05T18:42:54.000Z"
+  "last_update": "2024-12-05T18:57:06.000Z"
 }
