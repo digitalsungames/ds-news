@@ -114,7 +114,7 @@
           "title": "Bem-vindo!",
           "short_description": null,
           "long_description": null,
-          "button_accept": "Leia mais.",
+          "button_accept": "Leia mais",
           "button_decline": "Está bem!",
           "asset": null
         },
@@ -151,9 +151,17 @@
           "button_decline": "Okej!",
           "asset": null
         }
+      },
+      "stores": {
+        "1": {
+          "news_id": 73,
+          "games_id": 36,
+          "store_id": 1,
+          "url": "https://store.steampowered.com/news/app/1422440/view/518574472406499355"
+        }
       }
     }
   },
   "name": "Cataclismo Endless Beta",
-  "last_update": "2024-12-18T11:38:16.000Z"
+  "last_update": "2024-12-18T11:58:38.000Z"
 }
