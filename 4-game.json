@@ -154,7 +154,7 @@
       "id": 85,
       "games_id": 4,
       "show_once": 0,
-      "priority": 11,
+      "priority": 12,
       "start_date": "2025-02-21T00:00:00.000Z",
       "end_date": null,
       "localization": {
@@ -452,5 +452,5 @@
     }
   },
   "name": "Cataclismo Demo",
-  "last_update": "2025-02-21T10:40:18.000Z"
+  "last_update": "2025-02-21T10:41:52.000Z"
 }
