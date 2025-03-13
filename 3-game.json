@@ -297,6 +297,24 @@
           "games_id": 3,
           "store_id": 1,
           "url": "https://store.steampowered.com/app/2350790?utm_source=casnews&utm_campaign=announcement&utm_medium=small"
+        },
+        "2": {
+          "news_id": 71,
+          "games_id": 3,
+          "store_id": 2,
+          "url": "https://discord.gg/9AKDFvMEfH"
+        },
+        "3": {
+          "news_id": 71,
+          "games_id": 3,
+          "store_id": 3,
+          "url": "https://discord.gg/9AKDFvMEfH"
+        },
+        "4": {
+          "news_id": 71,
+          "games_id": 3,
+          "store_id": 4,
+          "url": "https://discord.gg/9AKDFvMEfH"
         }
       }
     },
@@ -447,6 +465,24 @@
           "games_id": 3,
           "store_id": 1,
           "url": "https://store.steampowered.com/news/app/1422440/view/507314932652443052"
+        },
+        "2": {
+          "news_id": 79,
+          "games_id": 3,
+          "store_id": 2,
+          "url": "https://discord.gg/9AKDFvMEfH"
+        },
+        "3": {
+          "news_id": 79,
+          "games_id": 3,
+          "store_id": 3,
+          "url": "https://discord.gg/9AKDFvMEfH"
+        },
+        "4": {
+          "news_id": 79,
+          "games_id": 3,
+          "store_id": 4,
+          "url": "https://discord.gg/9AKDFvMEfH"
         }
       }
     },
@@ -763,5 +799,5 @@
     }
   },
   "name": "Cataclismo",
-  "last_update": "2025-03-10T14:30:49.000Z"
+  "last_update": "2025-03-13T14:28:53.000Z"
 }
