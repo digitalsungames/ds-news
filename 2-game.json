@@ -5,8 +5,8 @@
       "games_id": 2,
       "show_once": 0,
       "priority": 0,
-      "start_date": "2024-06-20T08:25:00.000Z",
-      "end_date": "2025-05-27T16:33:00.000Z",
+      "start_date": "2024-06-20T04:25:00.000Z",
+      "end_date": "2025-05-27T12:33:00.000Z",
       "localization": {
         "en": {
           "news_id": 5,
@@ -255,5 +255,5 @@
     }
   },
   "name": "The Mageseeker",
-  "last_update": "2025-04-27T22:39:06.000Z"
+  "last_update": "2025-04-27T22:58:53.000Z"
 }
