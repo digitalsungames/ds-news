@@ -315,6 +315,12 @@
           "games_id": 3,
           "store_id": 4,
           "url": "https://discord.gg/9AKDFvMEfH"
+        },
+        "6": {
+          "news_id": 71,
+          "games_id": 3,
+          "store_id": 6,
+          "url": "https://www.xbox.com/en-US/games/store/moonlighter-2-the-endless-vault-game-preview/9ndjx252q5bw"
         }
       }
     },
