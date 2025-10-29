@@ -1,14 +1,5 @@
 {
-  "news": {
-    "122": {
-      "id": 122,
-      "games_id": 7,
-      "show_once": 1,
-      "priority": 20,
-      "start_date": "2025-10-17T00:00:00.000Z",
-      "end_date": "2025-10-30T00:00:00.000Z"
-    }
-  },
+  "news": {},
   "name": "Moonlighter 2 Debug ",
   "last_update": "2025-10-24T13:29:18.000Z"
 }
