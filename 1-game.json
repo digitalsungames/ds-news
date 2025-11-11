@@ -164,17 +164,6 @@
       "start_date": "2025-04-10T01:01:00.000Z",
       "end_date": "2025-12-12T16:00:00.000Z",
       "localization": {
-        "": {
-          "news_id": 101,
-          "games_id": 1,
-          "language": "",
-          "title": "今すぐウィッシュリストに追加！",
-          "short_description": null,
-          "long_description": null,
-          "button_accept": null,
-          "button_decline": null,
-          "asset": null
-        },
         "en": {
           "news_id": 101,
           "games_id": 1,
@@ -224,6 +213,17 @@
           "games_id": 1,
           "language": "de",
           "title": "Jetzt auf die Wunschliste!",
+          "short_description": null,
+          "long_description": null,
+          "button_accept": null,
+          "button_decline": null,
+          "asset": null
+        },
+        "jp": {
+          "news_id": 101,
+          "games_id": 1,
+          "language": "jp",
+          "title": "今すぐウィッシュリストに追加！",
           "short_description": null,
           "long_description": null,
           "button_accept": null,
@@ -286,5 +286,5 @@
     }
   },
   "name": "Moonlighter",
-  "last_update": "2025-10-30T10:12:24.000Z"
+  "last_update": "2025-11-11T15:29:04.000Z"
 }
