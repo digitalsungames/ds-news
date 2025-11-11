@@ -482,17 +482,6 @@
       "start_date": "2025-04-11T00:00:00.000Z",
       "end_date": null,
       "localization": {
-        "": {
-          "news_id": 105,
-          "games_id": 3,
-          "language": "",
-          "title": "",
-          "short_description": null,
-          "long_description": null,
-          "button_accept": null,
-          "button_decline": null,
-          "asset": null
-        },
         "en": {
           "news_id": 105,
           "games_id": 3,
@@ -637,5 +626,5 @@
     }
   },
   "name": "Cataclismo",
-  "last_update": "2025-05-16T10:11:50.000Z"
+  "last_update": "2025-11-11T15:11:58.000Z"
 }
