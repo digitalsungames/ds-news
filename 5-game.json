@@ -8,17 +8,6 @@
       "start_date": "2024-12-05T00:00:00.000Z",
       "end_date": null,
       "localization": {
-        "": {
-          "news_id": 69,
-          "games_id": 5,
-          "language": "",
-          "title": "Wishlist our new game!",
-          "short_description": null,
-          "long_description": null,
-          "button_accept": null,
-          "button_decline": null,
-          "asset": null
-        },
         "en": {
           "news_id": 69,
           "games_id": 5,
@@ -169,5 +158,5 @@
     }
   },
   "name": "Cataclismo ea_review",
-  "last_update": "2024-12-18T13:14:03.000Z"
+  "last_update": "2025-11-19T15:00:08.000Z"
 }
