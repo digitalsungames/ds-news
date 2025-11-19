@@ -303,17 +303,6 @@
       "start_date": "2025-11-17T20:00:00.000Z",
       "end_date": "2026-06-18T16:00:00.000Z",
       "localization": {
-        "": {
-          "news_id": 149,
-          "games_id": 1,
-          "language": "",
-          "title": "Moonlighter 2 DISPONÍVEL!",
-          "short_description": null,
-          "long_description": null,
-          "button_accept": null,
-          "button_decline": null,
-          "asset": null
-        },
         "en": {
           "news_id": 149,
           "games_id": 1,
@@ -391,6 +380,17 @@
           "button_decline": null,
           "asset": null
         },
+        "pr": {
+          "news_id": 149,
+          "games_id": 1,
+          "language": "pr",
+          "title": "Moonlighter 2 DISPONÍVEL!",
+          "short_description": null,
+          "long_description": null,
+          "button_accept": null,
+          "button_decline": null,
+          "asset": null
+        },
         "it": {
           "news_id": 149,
           "games_id": 1,
@@ -425,5 +425,5 @@
     }
   },
   "name": "Moonlighter",
-  "last_update": "2025-11-19T14:52:41.000Z"
+  "last_update": "2025-11-19T15:22:14.000Z"
 }
