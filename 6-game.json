@@ -12,7 +12,7 @@
           "news_id": 150,
           "games_id": 6,
           "language": "en",
-          "title": "Hotfix 1!",
+          "title": "Hotfix 1 - Performance & Steam Deck",
           "short_description": null,
           "long_description": null,
           "button_accept": null,
@@ -31,5 +31,5 @@
     }
   },
   "name": "Moonlighter 2",
-  "last_update": "2025-11-21T22:22:32.000Z"
+  "last_update": "2025-11-21T22:25:09.000Z"
 }
