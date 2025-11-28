@@ -6,13 +6,13 @@
       "show_once": 0,
       "priority": 20,
       "start_date": "2025-11-20T00:00:00.000Z",
-      "end_date": "2025-12-06T00:00:00.000Z",
+      "end_date": "2025-12-13T00:00:00.000Z",
       "localization": {
         "en": {
           "news_id": 150,
           "games_id": 6,
           "language": "en",
-          "title": "Hotfix 1 - Performance & Steam Deck",
+          "title": "Patch 1 - Performance, Balance & more!",
           "short_description": null,
           "long_description": null,
           "button_accept": null,
@@ -141,5 +141,5 @@
     }
   },
   "name": "Moonlighter 2",
-  "last_update": "2025-11-21T22:36:10.000Z"
+  "last_update": "2025-11-28T15:37:16.000Z"
 }
