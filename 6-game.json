@@ -143,7 +143,7 @@
       "id": 151,
       "games_id": 6,
       "show_once": 0,
-      "priority": 0,
+      "priority": 1,
       "start_date": "2026-01-16T09:40:00.000Z",
       "end_date": "2026-08-30T11:45:00.000Z",
       "localization": {
@@ -255,6 +255,14 @@
           "url": "https://store.steampowered.com/app/2350790?utm_source=smallnews&utm_campaign=sdverified&utm_medium=moonlighter2"
         }
       }
+    },
+    "152": {
+      "id": 152,
+      "games_id": 6,
+      "show_once": 0,
+      "priority": 0,
+      "start_date": "2026-02-13T10:57:56.000Z",
+      "end_date": null
     }
   },
   "name": "Moonlighter 2",
