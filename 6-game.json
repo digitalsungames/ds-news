@@ -5,8 +5,8 @@
       "games_id": 6,
       "show_once": 0,
       "priority": 20,
-      "start_date": "2025-11-19T23:00:00.000Z",
-      "end_date": "2025-12-12T23:00:00.000Z",
+      "start_date": "2026-03-11T15:05:00.000Z",
+      "end_date": "2026-06-12T20:00:00.000Z",
       "localization": {
         "en": {
           "news_id": 150,
@@ -287,5 +287,5 @@
     }
   },
   "name": "Moonlighter 2",
-  "last_update": "2026-03-11T14:59:37.000Z"
+  "last_update": "2026-03-11T15:01:00.000Z"
 }
