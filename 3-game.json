@@ -301,7 +301,7 @@
           "news_id": 153,
           "games_id": 3,
           "language": "en",
-          "title": "Our new Tower-Defense game!",
+          "title": "Wishlist our new Tower-Defense game!",
           "short_description": null,
           "long_description": null,
           "button_accept": null,
@@ -320,5 +320,5 @@
     }
   },
   "name": "Cataclismo",
-  "last_update": "2026-03-12T19:18:51.000Z"
+  "last_update": "2026-03-12T19:28:21.000Z"
 }
