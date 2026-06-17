@@ -151,8 +151,8 @@
       "games_id": 6,
       "show_once": 1,
       "priority": 20,
-      "start_date": "2026-05-22T10:00:00.000Z",
-      "end_date": "2026-06-26T09:30:00.000Z",
+      "start_date": "2026-05-22T08:00:00.000Z",
+      "end_date": "2026-06-26T07:30:00.000Z",
       "localization": {
         "en": {
           "news_id": 154,
@@ -270,11 +270,17 @@
           "news_id": 154,
           "games_id": 6,
           "store_id": 1,
-          "url": "https://store.steampowered.com/news/app/2350790/view/698765376653099614?l=english"
+          "url": "https://store.steampowered.com/app/2350790/Moonlighter_2_The_Endless_Vault/"
+        },
+        "5": {
+          "news_id": 154,
+          "games_id": 6,
+          "store_id": 5,
+          "url": "https://discord.com/invite/HWSNpdBVPe"
         }
       }
     }
   },
   "name": "Moonlighter 2",
-  "last_update": "2026-06-17T14:29:14.000Z"
+  "last_update": "2026-06-17T14:30:03.000Z"
 }
