@@ -485,6 +485,72 @@
           "button_accept": null,
           "button_decline": null,
           "asset": null
+        },
+        "jp": {
+          "news_id": 171,
+          "games_id": 1,
+          "language": "jp",
+          "title": "『ReVamp』3月25日発売！",
+          "short_description": null,
+          "long_description": null,
+          "button_accept": null,
+          "button_decline": null,
+          "asset": null
+        },
+        "ru": {
+          "news_id": 171,
+          "games_id": 1,
+          "language": "ru",
+          "title": "ReVamp выходит 25 марта!",
+          "short_description": null,
+          "long_description": null,
+          "button_accept": null,
+          "button_decline": null,
+          "asset": null
+        },
+        "ko": {
+          "news_id": 171,
+          "games_id": 1,
+          "language": "ko",
+          "title": "ReVamp 3월 25일 출시!",
+          "short_description": null,
+          "long_description": null,
+          "button_accept": null,
+          "button_decline": null,
+          "asset": null
+        },
+        "pr": {
+          "news_id": 171,
+          "games_id": 1,
+          "language": "pr",
+          "title": "ReVamp chega em 25 de março!",
+          "short_description": null,
+          "long_description": null,
+          "button_accept": null,
+          "button_decline": null,
+          "asset": null
+        },
+        "it": {
+          "news_id": 171,
+          "games_id": 1,
+          "language": "it",
+          "title": "ReVamp esce il 25 marzo!",
+          "short_description": null,
+          "long_description": null,
+          "button_accept": null,
+          "button_decline": null,
+          "asset": null
+        },
+        "es": {
+          "news_id": 171,
+          "games_id": 1,
+          "language": "es",
+          "title": "¡ReVamp sale el 25 de marzo!",
+          "short_description": null,
+          "long_description": null,
+          "button_accept": null,
+          "button_decline": null,
+          "asset": null
         }
       },
       "stores": {
@@ -498,5 +564,5 @@
     }
   },
   "name": "Moonlighter",
-  "last_update": "2026-10-08T16:24:52.000Z"
+  "last_update": "2026-10-08T16:38:11.000Z"
 }
